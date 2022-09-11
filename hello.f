@@ -1,3 +1,0 @@
-	 program hello
-		write (*, *)
-	 end

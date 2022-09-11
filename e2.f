@@ -1,3 +1,4 @@
+*2022/09/11	 
 	 program e2
 	 implicit none
 	 

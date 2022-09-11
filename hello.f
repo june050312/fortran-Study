@@ -1,3 +1,3 @@
-	 program main
+	 program hello
 		write (*, *)
 	 end
